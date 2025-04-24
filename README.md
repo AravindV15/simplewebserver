@@ -321,4 +321,7 @@ urlpatterns = [
 
 
 ## RESULT:
+
+
+## RESULT:
 The program for implementing simple webserver is executed successfully.
